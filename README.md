@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavinyaaa
 - 👀 I’m interested in building.
 - 🌱 I’m currently learning law.
-- 💞️ I’m looking to collaborate on BO Documents.
+- 💞️ I’m looking to collaborate on BOQ Documents.
 
 <!---
 Kavinyaaa/Kavinyaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
